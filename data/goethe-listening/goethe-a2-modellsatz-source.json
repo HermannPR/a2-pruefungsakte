@@ -1,0 +1,129 @@
+{
+  "id": "goethe-a2-modellsatz",
+  "title": "Goethe-Zertifikat A2 Modellsatz Erwachsene",
+  "provider": "Goethe-Institut",
+  "level": "A2",
+  "audience": "adults",
+  "itemCount": 20,
+  "partCount": 4,
+  "parts": [
+    {
+      "number": 1,
+      "itemStart": 1,
+      "itemEnd": 5,
+      "plays": 2,
+      "format": "multiple-choice"
+    },
+    {
+      "number": 2,
+      "itemStart": 6,
+      "itemEnd": 10,
+      "plays": 1,
+      "format": "matching"
+    },
+    {
+      "number": 3,
+      "itemStart": 11,
+      "itemEnd": 15,
+      "plays": 1,
+      "format": "multiple-choice"
+    },
+    {
+      "number": 4,
+      "itemStart": 16,
+      "itemEnd": 20,
+      "plays": 2,
+      "format": "yes-no"
+    }
+  ],
+  "audio": {
+    "file": "pruefungstraining_1_hoeren_a2_erwachsene-v2.mp4",
+    "sourceUrl": "https://goethemp4s.akamaized.net/resources/files/mp434/pruefungstraining_1_hoeren_a2_erwachsene.mp4",
+    "sha256": "9b052c1969fa55a55b43b958a9c988b7d4d1507944b8848605574d8aa5456d3c",
+    "durationSeconds": 1355.767007,
+    "bytes": 13542548,
+    "bitrate": 79910,
+    "format": "mov,mp4,m4a,3gp,3g2,mj2",
+    "codec": "aac",
+    "sampleRate": 44100,
+    "channels": 2
+  },
+  "answerKey": {
+    "1": "b",
+    "2": "b",
+    "3": "c",
+    "4": "b",
+    "5": "a",
+    "6": "b",
+    "7": "g",
+    "8": "h",
+    "9": "d",
+    "10": "e",
+    "11": "c",
+    "12": "a",
+    "13": "b",
+    "14": "b",
+    "15": "b",
+    "16": "nein",
+    "17": "ja",
+    "18": "ja",
+    "19": "nein",
+    "20": "nein"
+  },
+  "pdf": {
+    "file": "data/goethe-listening/sources/A2_Modellsatz_Erwachsene.pdf",
+    "sha256": "c24119c4b2a6f52686fc1f6bb4e16b4491b5006a8b07341dad01629cecc632f1",
+    "pages": 48,
+    "sourceUrl": "https://www.goethe.de/pro/relaunch/prf/materialien/A2/A2_Modellsatz_Erwachsene.pdf"
+  },
+  "sections": {
+    "instructions": [
+      {
+        "pageNumber": 17,
+        "text": "Seite 15\nGOETHE-ZERTIFIKAT A2 HÖREN\nMODELLSATZ KANDIDATENBLÄTTER\nKandidatenblätter\nHören\n30 Minuten\nDieser Prüfungsteil hat vier Teile:\nSie hören Sendungen aus dem Radio,\nGespräche, Nachrichten auf dem\nAnrufbeantworter und Durchsagen.\nLesen Sie zuerst die Aufgaben.\nHören Sie dann den Text dazu.\nFür jede Aufgabe gibt es nur eine\nrichtige Lösung.\nSchreiben Sie Ihre Lösungen zum\nSchluss auf den Antwortbogen .\nWörterbücher und Mobiltelefone\nsind nicht erlaubt.\nVs5.1_050525"
+      }
+    ],
+    "questions": [
+      {
+        "pageNumber": 18,
+        "text": "Seite 16\nGOETHE-ZERTIFIKAT A2 HÖREN\nMODELLSATZ KANDIDATENBLÄTTER\nTeil 1\nSie hören fünf kurze Texte. Sie hören jeden Text zweimal.\nWählen Sie für die Aufgaben 1 bis 5 die richtige Lösung a , b oder c .\n1 Wo kann man noch parken?\na Am Bahnhof.\nb Am Einkaufszentrum.\nc Bei der Olympia-Halle.\n2 Was soll Sabine nicht vergessen?\na Das Geschenk.\nb Den Anzug.\nc Die Blumen.\n3 Wo findet das Treffen statt?\na Am Bahnhof.\nb Im Büro.\nc Im Hotel Leopold.\n4 Wie wird das Wetter am Sonntag?\na Im Norden trocken.\nb Im Norden und Süden nass.\nc Im Süden trocken.\n5 Was sollen die Hörerinnen und Hörer tun?\na Den Namen des Sängers sagen.\nb Eine Konzertkarte kaufen.\nc Ein neues Lied singen.\nVs5.1_050525"
+      },
+      {
+        "pageNumber": 19,
+        "text": "Seite 17\nGOETHE-ZERTIFIKAT A2 HÖREN\nMODELLSATZ KANDIDATENBLÄTTER\nTeil 2\nSie hören ein Gespräch. Sie hören den Text einmal.\nWas machen der Mann und die Frau in der Woche?\nWählen Sie für die Aufgaben 6 bis 10 ein passendes Bild aus a bis i .\nWählen Sie jeden Buchstaben nur einmal. Sehen Sie sich jetzt die Bilder an.\n0 6 7 8 9 10\nTag Montag Dienstag Mittwoch Donnerstag Freitag Samstag\nLösung f\na b c\nd e f\ng h i\nVs5.1_050525"
+      },
+      {
+        "pageNumber": 20,
+        "text": "Seite 18\nGOETHE-ZERTIFIKAT A2 HÖREN\nMODELLSATZ KANDIDATENBLÄTTER\nTeil 3\nSie hören fünf kurze Gespräche. Sie hören jeden Text einmal.\nWählen Sie für die Aufgaben 11 bis 15 die richtige Lösung a , b oder c .\n11 Was hat das Mädchen gestern Abend gegessen?\na b c\n12 Für welches Kleidungsstück interessiert sich die Frau?\na b c\n13 Was fehlt für die Anmeldung?\na b c\n14 Was ist kaputt?\na b c\n15 Wohin soll der Mann gehen?\na b c\nVs5.1_050525"
+      },
+      {
+        "pageNumber": 21,
+        "text": "Seite 19\nGOETHE-ZERTIFIKAT A2 HÖREN\nMODELLSATZ KANDIDATENBLÄTTER\nTeil 4\nSie hören ein Interview. Sie hören den Text zweimal.\nWählen Sie für die Aufgaben 16 bis 20 Ja oder Nein .\nLesen Sie jetzt die Aufgaben.\nBeispiel\n0 Sarah ist in Afrika geboren.\nJa\nNein\n16 Sarah hatte am Anfang in Deutschland Probleme.\nJa\nNein\n17 Ihre Geschwister haben ihr das Fußballspielen gezeigt.\nJa\nNein\n18 Ihr Lehrer hat ihr einen Verein empfohlen.\nJa\nNein\n19 Sarah hat schon bei vielen internationalen Spielen mitgespielt.\nJa\nNein\n20 Sie studiert jetzt Sport an der Universität.\nJa\nNein\nVs5.1_050525"
+      }
+    ],
+    "solutions": [
+      {
+        "pageNumber": 34,
+        "text": "Version R04SWV01.01\n28208-LoeBo-MS000 - 01/2016\nGoethe-Zertifikat A2\nPTN-Nr.\n. .\nGeburtsdatum\nOrt\nInstitution,\nMS 0 0 0\nVorname\nNachname,\nMarkieren Sie so:\nNICHT so:\nFüllen Sie zur Korrektur das Feld aus:\nMarkieren Sie das richtige Feld neu:\nHören\nPunkte Hören\n2 0\nLesen\nPunkte Lesen\n2 0\nb a c\nTeil 1\n11\n12\n15\n14\n13\nb a c\nTeil 3\n6\n7\n10\n9\n8\nb a c\nTeil 2\nTeil 4\n16\n17\n18\n19\n20\nTeil 2\nh g f e d c b a i\nb a c\nTeil 3\nJa Nein\nTeil 4\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\nb a c\nTeil 1\na b c d e f x\n1\n2\n3\n4\n5\n1\n2\n3\n4\n5\nUnterschrift Bewertende/r 1 Unterschrift Bewertende/r 2 Datum\n. .\nLösungen\n28208\nVs5.1_050525"
+      }
+    ],
+    "transcripts": [
+      {
+        "pageNumber": 35,
+        "text": "Seite 33\nGOETHE-ZERTIFIKAT A2\nMODELLSATZ PRÜFERBLÄTTER\nTranskripte\nHören Teil 1\nSie hören fünf kurze Texte. Sie hören jeden Text zweimal.\nWählen Sie für die Aufgaben 1 bis 5 die richtige Lösung a , b oder c .\nAufgabe 1\nEine Information für die Besucher des Basketballspiels heute in der Olympia-\nHalle: Die Parkplätze in der Nähe sind schon besetzt. Im Parkhaus am\nEinkaufszentrum gibt es noch freie Plätze. Besucher von außerhalb sollten\nnicht mit dem Auto kommen. Nehmen Sie die Bahn! Vom Hauptbahnhof gibt\nes kostenlose Busse zur Olympia-Halle.\nAufgabe 2\nHallo Sabine. Denk bitte an meinen dunklen Anzug. Du wolltest ihn doch aus\nder Reinigung abholen. Sonst weiß ich nicht, was ich bei Helenas Hochzeit\nmorgen anziehen soll. Das Geschenk hab‘ ich heute in der Mittagspause schon\ngekauft. Die Blumen holen wir ja erst morgen früh. Dank dir.\nAufgabe 3\nGuten Tag Frau Meyer. Ingrid Sollms hier. Der Termin heute findet nicht in\nmeinem Büro statt. Da ist ein Fehler in der Einladung. Ich habe im Hotel\nLeopold einen Raum reserviert. Sie wissen ja, am Bahnhofsplatz. Bitte\nkommen Sie um 10.00 Uhr direkt dorthin. Danke! Auf Wiederhören.\nAufgabe 4\nNun zum Wetter. Am Wochenende ist es im Norden windig und bewölkt. Es\nregnet bei maximal 17 Grad. Im Süden am Samstag sonnig und warm bis 25\nGrad. Am Sonntag kommt das kalte Regenwetter dann auch nach Süd-\ndeutschland. Die Temperaturen fallen auch hier auf unter 15 Grad.\nAufgabe 5\nUnd jetzt unser Frühstücksradio-Gewinnspiel. Für alle, die es noch nicht\nkennen: Genau um 7.00 Uhr spielen wir ein neues Lied. Wenn Sie wissen, wie\nder Sänger heißt, rufen Sie uns an. Es gibt tolle Preise zu gewinnen: T-Shirts,\nCDs oder eine Eintrittskarte für ein Konzert Ihrer Wahl.\nVs5.1_050525"
+      },
+      {
+        "pageNumber": 36,
+        "text": "Seite 34\nGOETHE-ZERTIFIKAT A2\nMODELLSATZ PRÜFERBLÄTTER\nHören Teil 2\n678910\nSie hören ein Gespräch. Sie hören den Text einmal.\nWas machen der Mann und die Frau in der Woche?\nWählen Sie für die Aufgaben 6 bis 10 ein passendes Bild aus a bis i .\nWählen Sie jeden Buchstaben nur einmal. Sehen Sie sich jetzt die Bilder an.\nBeispiel\nMann:\nFrau:\nMann:\nFrau:\nMann:\nFrau:\nMann:\nFrau:\nMann:\nFrau:\nMann:\nFrau:\nMann:\nFrau:\nSag mal, hast du schon Ideen für unsere Woche Urlaub? Wir wollen ja zu Hause\nbleiben, aber ich möchte schon jeden Tag etwas Besonderes machen. Vielleicht\nein bisschen Sport? Oder Kultur?\nMal sehen, wir könnten ins Kino gehen, am Montag kommt ein guter Film.\nGute Idee! Montags gibt’s dort Ermäßigung!\nUnd am Dienstag müssen wir zu unserem Tanzkurs, oder?\nDiese Woche nicht, die Lehrerin ist auch im Urlaub. Wir könnten ins Theater\ngehen, ich hab gesehen, es gibt ein interessantes Stück.\nMhhm, warum nicht. Dann müssen wir am Mittwoch aber Sport machen!\nKlar, wir können schwimmen gehen, im neuen Schwimmbad!\nAber du weißt doch, dass ich das nicht gerne mache. Können wir nicht einen\nAusflug mit dem Rad machen?\nOkay, das macht mir ja auch Spaß. Und was machen wir am Donnerstag und\nFreitag?\nAm Donnerstag können wir Eis essen gehen, bei Francesco!\nMoment, Donnerstagabend sind wir bei Julia und Tim zum Kochen eingeladen.\nDa sollten wir vorher nicht so viel essen.\nJa, da hast du recht. Und wegen Freitag, da gehen wir zum Konzert vorm\nRathaus! Da spielen tolle Bands.\nOkay, wie du möchtest. Aber am nächsten Tag, am Samstag, darfst du dann\nnicht so lange schlafen, da ist nämlich unsere Schifffahrt auf der Elbe.\nKeine Sorge, ich werde früh wach sein und dir sogar das Frühstück ans Bett\nbringen! (lacht)\nVs5.1_050525"
+      },
+      {
+        "pageNumber": 37,
+        "text": "Seite 35\nGOETHE-ZERTIFIKAT A2\nMODELLSATZ PRÜFERBLÄTTER\nHören Teil 3\nSie hören fünf kurze Gespräche. Sie hören jeden Text einmal.\nWählen Sie für die Aufgaben 11 bis 15 die richtige Lösung a , b oder c .\nAufgabe 11\nJunge:\nMädchen:\nJunge:\nWas hast du gestern Abend Tolles gegessen?\nIch wollte nur einen Hamburger haben, aber Lena und Sarah wollten lieber\nFisch essen gehen. Im Fischrestaurant gab es auch Hähnchen, also habe ich\ndas genommen. Es war o.k.\nJa, dann ist es ja gut.\nAufgabe 12\nFrau:\nMann:\nFrau:\nMann:\nFrau:\nEntschuldigung, die Jacke da gefällt mir. Die mit den weißen Buchstaben.\nWelche Größe haben Sie denn?\nL\nAch, tut mir leid, aber diese haben wir nur noch in S. Aber vielleicht gefällt Ihnen\ndie Jeansjacke hier oder der blaue Mantel?\nNe, die Jeansjacke gefällt mir nicht. Mhh, der Mantel ist hübsch, aber zu warm.\nDen brauch‘ ich nicht.\nAufgabe 13\nMann:\nFrau:\nMann:\nFrau:\nMann:\nFrau:\nMann:\nJa, bitte?\nGuten Tag, Herr Thung. Hier ist Reimann vom Sportverein Ramersdorf. Ich rufe an\nwegen Ihrer Anmeldung.\nDas ausgefüllte Formular habe ich Ihnen gestern in den Briefkasten gesteckt.\nJa, das habe ich hier, aber für den Ausweis brauchen wir noch ein Foto von Ihnen.\nKein Problem. Ich bring‘ Ihnen morgen eins.\nSchön. Sonst haben wir alles, auch Ihre Unterschrift.\nGut. Dann bis morgen.\nAufgabe 14\nMann 1:\nMann 2:\nMann 1:\nHallo Herr Talas. Hier Miguel Alba aus Haus Nr. 9. Wir haben gestern schon\nwegen der Reparaturen telefoniert.\nJa. Der Mechaniker hat den Aufzug in Ihrem Haus gestern Abend noch repariert.\nUnd die Lampe am Eingang geht auch wieder.\nJa, ja. Aber jetzt wird die Heizung in meiner Wohnung nicht mehr warm. Können\nSie vorbeikommen und sich das mal ansehen?\nAufgabe 15\nFrau:\nMann:\nFrau:\nMann:\nFrau:\nGuten Tag, hier ist Messner von der Arztpraxis Vollmer.\nJa? Guten Tag.\nIch rufe an wegen Ihrer Krankengymnastik. Sie können nächste Woche Montag\nund Donnerstag um 16 Uhr kommen.\nJa, das passt.\nSie müssen nicht an der Information warten. Gehen Sie direkt in den Sportraum.\nUnd bitte vergessen Sie das Rezept vom Arzt und Ihre Sportkleidung nicht.\nVs5.1_050525"
+      },
+      {
+        "pageNumber": 38,
+        "text": "Seite 36\nGOETHE-ZERTIFIKAT A2\nMODELLSATZ PRÜFERBLÄTTER\nHören Teil 4\n1112131415\nSie hören ein Interview. Sie hören den Text zweimal.\nWählen Sie für die Aufgaben 16 bis 20 Ja oder Nein . Lesen Sie jetzt die Aufgaben.\nBeispiel\nMann:\nFrau:\nMann:\nFrau:\nMann:\nFrau:\nMann:\nFrau:\nMann:\nFrau:\nMann:\nFrau:\nMann:\nFrau:\nSarah, Sie kommen aus Ghana, in Afrika. Wann sind Sie nach Deutschland\ngekommen?\nDas war kurz nach meinem fünften Geburtstag. Da sind wir dann mit der\nganzen Familie umgezogen.\nUnd wie fanden Sie das neue Leben in Deutschland?\nJa, es hat mir sofort gefallen, ich habe ganz schnell Freunde gefunden – beim\nFußballspielen auf der Straße. Meine beiden großen Brüder haben mich\nimmer mitgenommen. Zuerst haben sie mir Tipps gegeben, aber nach ein paar\nMonaten war ich besser als sie! ((lacht))\nUnd dann? Wie ging es dann weiter?\nAls ich in der Schule war, hat mein Sportlehrer mir gesagt, bei welchem\nFußballverein ich mich anmelden soll. Und dort spiele ich immer noch.\nJetzt schon seit 14 Jahren! Und seit zwei Wochen sind Sie sogar in der\ndeutschen Frauennationalmannschaft. Glückwunsch!\nDanke. Ja, und ich hoffe, dass ich bald auch einmal in einem internationalen\nSpiel mitspielen darf.\nWas machen Sie denn, wenn Sie nicht Fußball spielen?\nIm Moment habe ich keine Zeit für anderes. Aber später, wenn ich nicht mehr\nso gut bin, möchte ich studieren.\nUnd sagen Sie uns auch welches Fach?\nNatürlich Sport!\nNa dann, alles Gute für Sie und danke für das Gespräch.\nGerne.\nVs5.1_050525"
+      }
+    ]
+  }
+}

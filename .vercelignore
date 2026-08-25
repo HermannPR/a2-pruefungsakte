@@ -1,0 +1,12 @@
+*.pdf
+/data/
+deu.traineddata
+/scripts/
+/test/
+/supabase/
+/node_modules/
+/dist/
+/cv-screenshots/
+.env
+.env.*
+README.md

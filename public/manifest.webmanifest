@@ -1,0 +1,14 @@
+{
+  "name": "A2 Prüfungsakte",
+  "short_name": "A2 Akte",
+  "description": "Goethe-orientierte A2-Deutschprüfungsvorbereitung mit persönlichem Lernfortschritt.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#eee7d9",
+  "theme_color": "#20241f",
+  "lang": "de",
+  "categories": ["education"],
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

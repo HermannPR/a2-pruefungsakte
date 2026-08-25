@@ -1,0 +1,50 @@
+{
+  "name": "a2-preparator",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "inventory": "node scripts/inventory.mjs",
+    "extract": "node scripts/extract.mjs",
+    "structure": "node scripts/structure.mjs",
+    "validate": "node scripts/validate.mjs",
+    "query": "node scripts/query.mjs",
+    "ingest:listening": "node scripts/ingest-goethe-listening.mjs",
+    "render:goethe": "node scripts/render-goethe-sheets.mjs",
+    "ingest:vocabulary": "node scripts/ingest-workbook-vocabulary.mjs",
+    "audit:a11y": "node scripts/accessibility-audit.mjs",
+    "audit:performance": "npm run build && node scripts/performance-budget.mjs",
+    "capture:cv": "node scripts/capture-cv-screenshots.mjs",
+    "capture:avatar": "node scripts/capture-avatar-showcase.mjs",
+    "test:exam": "node scripts/full-exam-smoke.mjs",
+    "test:achievements": "node scripts/achievement-flow-smoke.mjs",
+    "test:avatar": "node scripts/avatar-flow-smoke.mjs",
+    "test:onboarding": "node scripts/onboarding-flow-smoke.mjs",
+    "test:flows": "node scripts/exercise-flow-smoke.mjs",
+    "test:oauth": "node scripts/google-oauth-smoke.mjs",
+    "test:production": "node scripts/production-smoke.mjs",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "@marsidev/react-turnstile": "^1.5.3",
+    "@napi-rs/canvas": "latest",
+    "@supabase/supabase-js": "^2.110.3",
+    "@tesseract.js-data/deu": "latest",
+    "@vitejs/plugin-react": "^6.0.3",
+    "lucide-react": "^1.24.0",
+    "minisearch": "^7.2.0",
+    "pdfjs-dist": "latest",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
+    "tesseract.js": "latest",
+    "vite": "^8.1.4"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "^4.12.1",
+    "playwright-core": "^1.61.1",
+    "supabase": "^2.109.1"
+  }
+}

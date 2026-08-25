@@ -1,0 +1,129 @@
+{
+  "id": "goethe-a2-uebungssatz-01",
+  "title": "Goethe-Zertifikat A2 Uebungssatz 01 Erwachsene",
+  "provider": "Goethe-Institut",
+  "level": "A2",
+  "audience": "adults",
+  "itemCount": 20,
+  "partCount": 4,
+  "parts": [
+    {
+      "number": 1,
+      "itemStart": 1,
+      "itemEnd": 5,
+      "plays": 2,
+      "format": "multiple-choice"
+    },
+    {
+      "number": 2,
+      "itemStart": 6,
+      "itemEnd": 10,
+      "plays": 1,
+      "format": "matching"
+    },
+    {
+      "number": 3,
+      "itemStart": 11,
+      "itemEnd": 15,
+      "plays": 1,
+      "format": "multiple-choice"
+    },
+    {
+      "number": 4,
+      "itemStart": 16,
+      "itemEnd": 20,
+      "plays": 2,
+      "format": "yes-no"
+    }
+  ],
+  "audio": {
+    "file": "pruefungstraining_2_hoeren_a2_erwachsene-v7.mp3",
+    "sourceUrl": "https://goethemp4s.akamaized.net/resources/files/mp38/pruefungstraining_2_hoeren_a2_erwachsene.mp3",
+    "sha256": "6602ac457fbf1d44c744049de0d49cf01cfb16e03febf29c227594931a99f4c7",
+    "durationSeconds": 1450.076833,
+    "bytes": 34801844,
+    "bitrate": 192000,
+    "format": "mp3",
+    "codec": "mp3",
+    "sampleRate": 44100,
+    "channels": 2
+  },
+  "answerKey": {
+    "1": "b",
+    "2": "c",
+    "3": "b",
+    "4": "c",
+    "5": "a",
+    "6": "e",
+    "7": "g",
+    "8": "h",
+    "9": "i",
+    "10": "a",
+    "11": "b",
+    "12": "c",
+    "13": "b",
+    "14": "a",
+    "15": "b",
+    "16": "ja",
+    "17": "nein",
+    "18": "ja",
+    "19": "ja",
+    "20": "nein"
+  },
+  "pdf": {
+    "file": "data/goethe-listening/sources/A2_Uebungssatz_Erwachsene.pdf",
+    "sha256": "ab15444a6f9f1107f2fc055b1a5156b915aa702bb69481cf4b67abdb95763344",
+    "pages": 48,
+    "sourceUrl": "https://www.goethe.de/pro/relaunch/prf/materialien/A2/A2_Uebungssatz_Erwachsene.pdf"
+  },
+  "sections": {
+    "instructions": [
+      {
+        "pageNumber": 17,
+        "text": "GOETHE-ZERTIFIKAT A2 HÖREN\nÜBUNGSSATZ 01 KANDIDATENBLÄTTER\nSeite 15\nKandidatenblätter\nHören\n30 Minuten\nDieser Prüfungsteil hat vier Teile:\nSie hören Sendungen aus dem Radio,\nGespräche, Nachrichten auf dem\nAnrufbeantworter und Durchsagen.\nLesen Sie zuerst die Aufgaben.\nHören Sie dann den Text dazu.\nFür jede Aufgabe gibt es nur eine\nrichtige Lösung.\nSchreiben Sie Ihre Lösungen zum\nSchluss auf den Antwortbogen .\nWörterbücher und Mobiltelefone\nsind nicht erlaubt.\nVs0.6_050526"
+      }
+    ],
+    "questions": [
+      {
+        "pageNumber": 18,
+        "text": "GOETHE-ZERTIFIKAT A2 HÖREN\nÜBUNGSSATZ 01 KANDIDATENBLÄTTER\nTeil 1\n1 Wo findet das Konzert statt?\na\nb\nc\nAuf dem Marktplatz.\nIn einer Halle.\nIm Festzelt.\n2 Was soll Frauke machen?\na\nb\nc\nEinen Kuchen backen.\nEin Geschenk kaufen.\nGetränke organisieren.\n3 Warum möchte der Mann das Treffen am Samstag verschieben? Weil …\na\nb\nc\ner mit Freunden ausgehen möchte.\nseine Frau verabredet ist.\nseine Eltern zu Besuch kommen.\n4 Wie wird das Wetter im Süden? Es wird ...\na\nb\nc\nkühl und trocken.\nwarm und es gibt Gewitter.\nwarm und es regnet.\n5 Was sollen Fahrgäste tun, wenn sie nach Frankfurt wollen?\na\nb\nc\nDen ICE nehmen.\nIm Zug warten.\nMit der S-Bahn fahren.\nSeite 16\nSie hören fünf kurze Texte. Sie hören jeden Text zweimal.\nWählen Sie für die Aufgaben 1 bis 5 die richtige Lösung a , b oder c .\nVs0.6_050526"
+      },
+      {
+        "pageNumber": 19,
+        "text": "GOETHE-ZERTIFIKAT A2 HÖREN\nÜBUNGSSATZ 01 KANDIDATENBLÄTTER\nTeil 2\nSie hören ein Gespräch. Sie hören den Text einmal.\nWas hat die Frau in Köln gemacht?\nWählen Sie für die Aufgaben 6 bis 10 ein passendes Bild aus a bis i .\nWählen Sie jeden Buchstaben nur einmal. Sehen Sie sich jetzt die Bilder an.\nSeite 17\nBeispiel\n0\nb\nFreitag\n6\nSamstag\n7\nSonntag\n8\nMontag\n9\nDienstag\n10\nMittwoch Tag:\nLösung:\nb\nX\na c\nd f e\ng h i\nVs0.6_050526"
+      },
+      {
+        "pageNumber": 20,
+        "text": "GOETHE-ZERTIFIKAT A2 HÖREN\nÜBUNGSSATZ 01 KANDIDATENBLÄTTER\n11 Was kauft der Mann?\n12 Welcher Vorschlag für den Firmenausflug in diesem Jahr gefällt beiden?\nTeil 3\nSeite 18\n13 Wie fährt die Frau zur Arbeit?\n14 Was ist kaputt?\n15 Warum kann der Mann nicht zur Arbeit kommen?\na b c\na b c\na b c\na b c\na b c\nSie hören fünf kurze Gespräche. Sie hören jeden Text einmal.\nWählen Sie für die Aufgaben 11 bis 15 die richtige Lösung a , b oder c .\nVs0.6_050526"
+      },
+      {
+        "pageNumber": 21,
+        "text": "GOETHE-ZERTIFIKAT A2 HÖREN\nÜBUNGSSATZ 01 KANDIDATENBLÄTTER\nSeite 19\nTeil 4\nSie hören ein Interview. Sie hören den Text zweimal.\nWählen Sie für die Aufgaben 16 bis 20 Ja oder Nein .\nLesen Sie jetzt die Aufgaben.\nBeispiel\n0 Herr und Frau Plessing haben ein Hotel.\nX\nNein\n16 Frau Plessing findet es schade, dass ihre Kinder nicht mehr zu Hause wohnen.\nJa Nein\n17 Herr Plessing hat früher als Koch gearbeitet.\nJa Nein\n18 Herr und Frau Plessing wissen, was Familien im Urlaub brauchen.\nJa Nein\n19 Die Ferienwohnungen im Hotel sind besonders beliebt.\nJa Nein\n20 Im Hotel gibt es immer viele Gäste.\nJa Nein\nJa\nVs0.6_050526"
+      }
+    ],
+    "solutions": [
+      {
+        "pageNumber": 34,
+        "text": "Version R04V01.01-05264\nLoeBo-ÜS001E-12/2020\nGoethe-Zertifikat A2\nPTN-Nr.\n. .\nGeburtsdatum\nOrt\nInstitution,\nÜS 0 0 1\nVorname\nNachname,\nMarkieren Sie so:\nNICHT so:\nFüllen Sie zur Korrektur das Feld aus:\nMarkieren Sie das richtige Feld neu:\nHören\nPunkte Hören\n2 0\nLesen\nPunkte Lesen\n2 0\nb a c\nTeil 1\n11\n12\n15\n14\n13\nb a c\nTeil 3\n6\n7\n10\n9\n8\nb a c\nTeil 2\nTeil 4\n16\n17\n18\n19\n20\nTeil 2\nb a c\nTeil 3 Teil 4\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\nb a c\nTeil 1\na b c d e f x\n1\n2\n3\n4\n5\n1\n2\n3\n4\n5\nUnterschrift Bewertende/r 1 Unterschrift Bewertende/r 2 Datum\n. .\na b c d e f g h i\nNein Ja\nLösungen\n5264\nVs0.6_050526"
+      }
+    ],
+    "transcripts": [
+      {
+        "pageNumber": 35,
+        "text": "Transkripte\nHören Teil 1\nSie hören fünf kurze Texte. Sie hören jeden Text zweimal.\nWählen Sie für die Aufgaben 1 bis 5 die richtige Lösung a , b oder c .\nAufgabe 1\nUnd jetzt noch eine wichtige Information für die Besucher des Musikfestes: Wegen des\nRegens kann das Konzert heute Abend nicht draußen auf dem Marktplatz stattfinden.\nLiebe Fans, keine Angst, es wird stattfinden – in der großen Halle am Bahnhof, Beginn\n18:30 Uhr. Wer sein Ticket zurückgeben möchte, kann das bis 18 Uhr am Schalter vor\ndem Festzelt kostenlos tun.\nAufgabe 2\nHallo, Frauke. Jana feiert doch am Freitag ihren Geburtstag im Büro. Ich backe morgen\neinen Kuchen. Wichtig ist noch das Geschenk. Paul hat gesagt, er kümmert sich darum.\nEr fährt heute nach der Arbeit in die Stadt und sucht ein spannendes Buch. Kannst du\ndich um Saft, Wasser und Kaffee kümmern? Rufst du mich zurück?\nAufgabe 3\nHi, Paul, Clemens hier. Du, wir hatten ja gesagt, wir gehen diesen Samstag etwas\ntrinken. Kannst du auch Sonntagabend? Am Samstagabend geht meine Frau mit\nFreunden aus und ich hab versprochen, dass ich zu Hause bleibe und auf die Kinder\naufpasse. Sonntag kommen dann noch meine Eltern zu Besuch, aber ab 19 Uhr hab ich\nZeit.\nAufgabe 4\nUnd nun zum Wetter: Der Sommer bleibt und es wird morgen nochmal sehr warm, im\nSüden bis 30 Grad. Am späten Nachmittag soll es dort etwas regnen. Vorsicht im\nWesten. Dort wird es bis zum frühen Nachmittag auch sehr warm, es soll am\nNachmittag aber starke Gewitter geben. Im Norden und Osten wird es kühl mit\nTemperaturen bis 16 Grad. Aber es bleibt trocken.\nAufgabe 5\nAchtung, liebe Fahrgäste, dieser Zug kann wegen eines technischen Problems nicht\nweiterfahren. Bitte alle aussteigen. Fahrgäste nach Frankfurt fahren bitte mit dem ICE\n562 um 14.15 Uhr von Gleis 1. Fahrgäste nach Stuttgart nehmen bitte die S-Bahn um\n14.22 Uhr von Gleis 4.\nSeite 33\nGOETHE-ZERTIFIKAT A2\nÜBUNGSSATZ 01 PRÜFERBLÄTTER\nVs0.6_050526"
+      },
+      {
+        "pageNumber": 36,
+        "text": "Hören Teil 2\nSie hören ein Gespräch. Sie hören den Text einmal.\nWas hat die Frau in Köln gemacht?\nWählen Sie für die Aufgaben 6 bis 10 ein passendes Bild aus a bis i .\nWählen Sie jeden Buchstaben nur einmal. Sehen Sie sich jetzt die Bilder an.\nBeispiel\nMann:\nFrau:\nMann:\nFrau:\nMann:\nFrau:\nMann:\nFrau:\nMann:\nFrau:\nMann:\nFrau:\nMann:\nFrau:\nMann:\nFrau:\nSonja, was machst du denn hier? Ich denke, du bist in Köln.\nLetzte Woche war ich in Köln.\nUnd wie war es?\nAch, es war toll! Am Freitag bin ich hingefahren. Meine Freundin Julia hat mich\nvom Bahnhof abgeholt und dann sind wir in einem guten Restaurant essen\ngegangen.\nSchön! Was habt ihr denn noch gemacht? Du wolltest doch die neue\nAusstellung sehen.\nJa, eigentlich am Samstag. Aber das Museum war wegen einer Veranstaltung\ngeschlossen. Also waren wir im Theater.\nDu interessierst dich wohl sehr für Kultur?\nJa, deshalb waren wir auch noch in einem Klavierkonzert. Julia wollte\neigentlich am Sonntag gehen, aber wir haben leider keine Karten mehr\ngekriegt. Also waren wir den ganzen Tag in der Stadt und haben uns\nSehenswürdigkeiten angesehen.\nDas mach ich auch gern. Und wann wart ihr dann bei dem Klavierkonzert?\nAm Montagabend. Montag gab es auch ein kostenloses Konzert von zwei\nBands draußen vor der Universität. Das hätte mich auch interessiert.\nMan kann ja nicht alles haben. (Lacht) Und Dienstag?\nIch wollte eigentlich mit dem Schiff auf dem Rhein, dem Fluss, fahren. Aber\nJulia hatte eine andere tolle Idee: eine Radtour am Fluss. Am Abend war ich\ntotal müde.\nWar das Wetter denn gut?\nWir hatten Glück. Am Mittwoch hat es leider geregnet. Das war schade, weil\nwir auf ein Straßenfest gehen wollten. Das hat dann nicht geklappt. Wir waren\ndann in der Ausstellung, im Museum.\nDarauf hattest du dich ja sehr gefreut.\nDie war sehr schön. Kann ich empfehlen!\nSeite 34\nGOETHE-ZERTIFIKAT A2\nÜBUNGSSATZ 01 PRÜFERBLÄTTER\nVs0.6_050526"
+      },
+      {
+        "pageNumber": 37,
+        "text": "Hören Teil 3\nSie hören fünf kurze Gespräche. Sie hören jeden Text einmal.\nWählen Sie für die Aufgaben 11 bis 15 die richtige Lösung a , b oder c .\nAufgabe 11\nFrau:\nMann:\nFrau:\nMann:\nFrau:\nMann:\nFrau:\nMann:\nFrau:\nSchlemmer, hallo?\nHallo, Frau Schlemmer, hier Florian Mayer, Sie verkaufen alte Möbel.\nJa.\nHeute Morgen hab‘ ich Ihnen geschrieben, dass ich das Sofa kaufen möchte.\nJa, ich erinnere mich.\nTut mir leid, aber es ist zu groß, das kann ich nicht mit meinem Auto abholen.\nAber der Wohnzimmertisch interessiert mich.\nKönnen Sie haben. Und die vier Stühle, nehmen Sie die auch?\nDa habe ich eigene.\nOK.\nAufgabe 12\nMann:\nFrau:\nMann:\nFrau:\nMann:\nFrau:\nMann:\nDu, Sabine, ich sammle Ideen für unseren Firmenausflug.\nAh, ja! Was haben wir denn im letzten Jahr gemacht?\nEine interessante Stadtführung.\nRichtig! Die war toll. (nachdenklich) Im Stadtmuseum gibt es eine gute neue\nKunstausstellung.\nKunst, finde ich nicht so interessant.\nOkay, und wenn wir zum See fahren und dort eine Wanderung machen? Darauf\nhätt ich Lust.\nJa, find ich gut.\nAufgabe 13\nFrau:\nMann:\nFrau:\nMann:\nFrau:\nMann:\nFrau:\nOch, Mann!\nGuten Morgen, Frau Nachbarin! Was ist denn?\nMorgen, Herr Köhler. Ich muss zur Arbeit und hab den Zug verpasst.\nOh, wie ärgerlich. Warum nehmen Sie nicht Ihr Auto?\n(seufzt) Das ist in der Werkstatt.\nGut, dann fahren Sie bei mir mit. Ich muss jetzt auch mit dem Auto in die Stadt.\nDas ist wirklich nett!\nAufgabe 14\nFrau:\nMann:\nFrau:\nMann:\nFrau:\nMann:\nFrau:\nSanitär Reparaturen, guten Tag.\nGuten Tag. Mollack mein Name. Bei mir ist Wasser im Badezimmer. Ich brauche\neinen Handwerker.\nJa, kein Problem. Kommt das Wasser aus der Dusche?\nDie ist ganz trocken.\nAh, gut, es kann natürlich auch die Waschmaschine sein.\nDie steht bei mir im Keller. Unter der Toilette ist das meiste Wasser.\nAh, ja, dann liegt da wohl das Problem.\nAufgabe 15\nMann:\nFrau:\nMann:\nFrau:\nMann:\nHallo, Frau Hansen! Hier Larsen. Ich kann heute leider nicht zur Arbeit kommen.\nOh, sind Sie krank?\nMeine Tochter hat eine Grippe und ich muss mit ihr zum Arzt gehen.\nWir haben doch heute den wichtigen Gesprächstermin! Kann das nicht Ihre Frau\nmachen?\nMeine Frau nimmt gleich das Taxi zum Flughafen. Sie muss beruflich für eine\nWoche nach London.\nSeite 35\nGOETHE-ZERTIFIKAT A2\nÜBUNGSSATZ 01 PRÜFERBLÄTTER\nVs0.6_050526"
+      },
+      {
+        "pageNumber": 38,
+        "text": "Hören Teil 4\nSie hören ein Interview. Sie hören den Text zweimal.\nWählen Sie für die Aufgaben 16 bis 20 Ja oder Nein .\nLesen Sie jetzt die Aufgaben.\nBeispiel\nModerator:\nFrau:\nModerator:\nFrau:\nModerator:\nFrau:\nModerator:\nFrau:\nModerator:\nFrau:\nModerator:\nFrau:\nFrau Plessing, Sie und Ihr Mann haben seit einem Jahr das erste\nFamilienhotel in der Stadt. Wie kamen Sie auf diese Idee?\nUnsere vier Kinder sind alle erwachsen und leben nicht mehr bei uns zu\nHause. Ja, leider. Unser Leben war dann plötzlich sehr ruhig.\nAh, Sie wollten wieder Kontakt mit Kindern?\nJa, auch, und wir kennen die Arbeit im Hotel: Mein Mann hat viele Jahre in\neinem Hotel an der Rezeption gearbeitet und ich habe im Hotelrestaurant\ngekocht. Wir dachten, mit unseren Erfahrungen können wir auch selbst ein\nkleines Hotel führen. Wir wollten es versuchen.\nVerstehe.\nJa, und außerdem haben wir auf unseren Reisen gesehen, was in einem\nnormalen Hotel nicht so gut ist, wenn man mit einer großen Familie\nunterwegs ist.\nAha. Und hatten Sie schon viele Gäste?\nHier im Haus gibt es drei Wohnungen mit Küche für Familien, die gern alles\nselbst machen. Die waren von Anfang an fast immer vermietet. Außerdem\nhaben wir drei große Zimmer, die kann man mit Frühstück buchen oder auch\nmit Mittag- und Abendessen. So wie man es braucht.\nAh, ja.\nIn den Sommerferien war das Hotel voll. Jetzt gerade haben wir nicht viele\nReservierungen.\nDann hoffen wir, dass viele Familien unser Gespräch gehört haben und Ihr\nHotel kennenlernen möchten. Alles Gute für Sie!\nVielen Dank!\nSeite 36\nGOETHE-ZERTIFIKAT A2\nÜBUNGSSATZ 01 PRÜFERBLÄTTER\nVs0.6_050526"
+      }
+    ]
+  }
+}

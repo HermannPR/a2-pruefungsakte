@@ -1,0 +1,24 @@
+{
+  "generatedAt": "2026-07-14T14:26:38.941Z",
+  "totalTests": 2,
+  "totalParts": 8,
+  "totalItems": 40,
+  "tests": [
+    {
+      "id": "goethe-a2-modellsatz",
+      "title": "Goethe-Zertifikat A2 Modellsatz Erwachsene",
+      "itemCount": 20,
+      "partCount": 4,
+      "durationSeconds": 1355.767007,
+      "sourceFile": "data/goethe-listening/goethe-a2-modellsatz-source.json"
+    },
+    {
+      "id": "goethe-a2-uebungssatz-01",
+      "title": "Goethe-Zertifikat A2 Uebungssatz 01 Erwachsene",
+      "itemCount": 20,
+      "partCount": 4,
+      "durationSeconds": 1450.076833,
+      "sourceFile": "data/goethe-listening/goethe-a2-uebungssatz-01-source.json"
+    }
+  ]
+}

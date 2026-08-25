@@ -1,0 +1,101 @@
+{
+  "generatedAt": "2026-07-14T13:16:47.840Z",
+  "books": [
+    {
+      "id": "grammatik-aktiv-a1-b1",
+      "kind": "grammar",
+      "fileName": "dokumen.pub_grammatik-aktiv-a1-b1-9783060239726.pdf",
+      "filePath": "dokumen.pub_grammatik-aktiv-a1-b1-9783060239726.pdf",
+      "bytes": 84513697,
+      "sha256": "bb04ab31880b5634209f2be65b1e0c7d8835e979e64334c5f686e3ed671cbd53",
+      "pageCount": 255,
+      "status": "ready",
+      "corruptedByteRatio": 3.5497204672042686e-8,
+      "extractionMode": "ocr",
+      "samples": [
+        {
+          "pageNumber": 1,
+          "nativeCharacters": 0,
+          "textQuality": 0,
+          "replacementCharacters": 0
+        },
+        {
+          "pageNumber": 128,
+          "nativeCharacters": 0,
+          "textQuality": 0,
+          "replacementCharacters": 0
+        },
+        {
+          "pageNumber": 255,
+          "nativeCharacters": 0,
+          "textQuality": 0,
+          "replacementCharacters": 0
+        }
+      ]
+    },
+    {
+      "id": "netzwerk-a2-kursbuch",
+      "kind": "coursebook",
+      "fileName": "pdfcoffee.com_netzwerk-a2-kursbuch-3-pdf-free.pdf",
+      "filePath": "pdfcoffee.com_netzwerk-a2-kursbuch-3-pdf-free.pdf",
+      "bytes": 32650566,
+      "sha256": "5585659aa2892396858cfd5554a8f7f4b5f940c72b207925fadbb553f0a22182",
+      "pageCount": 164,
+      "status": "ready",
+      "corruptedByteRatio": 9.18820212795086e-8,
+      "extractionMode": "hybrid",
+      "samples": [
+        {
+          "pageNumber": 1,
+          "nativeCharacters": 0,
+          "textQuality": 0,
+          "replacementCharacters": 0
+        },
+        {
+          "pageNumber": 82,
+          "nativeCharacters": 2668,
+          "textQuality": 0.7931034482758621,
+          "replacementCharacters": 0
+        },
+        {
+          "pageNumber": 164,
+          "nativeCharacters": 1117,
+          "textQuality": 0.7923008057296329,
+          "replacementCharacters": 0
+        }
+      ]
+    },
+    {
+      "id": "netzwerk-neu-a2-uebungsbuch",
+      "kind": "workbook",
+      "fileName": "pdfcoffee.com_netzwerk-neu-a2-bungsbuch-pdf-free.pdf",
+      "filePath": "pdfcoffee.com_netzwerk-neu-a2-bungsbuch-pdf-free.pdf",
+      "bytes": 23757903,
+      "sha256": "db8f7765aab2ef381f8a30a941bf9dbc1f6a122d00c5dcd96ae43a39d16a2a28",
+      "pageCount": 196,
+      "status": "ready",
+      "corruptedByteRatio": 5.050950835181035e-7,
+      "extractionMode": "ocr",
+      "samples": [
+        {
+          "pageNumber": 1,
+          "nativeCharacters": 0,
+          "textQuality": 0,
+          "replacementCharacters": 0
+        },
+        {
+          "pageNumber": 98,
+          "nativeCharacters": 0,
+          "textQuality": 0,
+          "replacementCharacters": 0
+        },
+        {
+          "pageNumber": 196,
+          "nativeCharacters": 0,
+          "textQuality": 0,
+          "replacementCharacters": 0
+        }
+      ]
+    }
+  ]
+}

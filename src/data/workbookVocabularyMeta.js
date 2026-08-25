@@ -1,0 +1,1 @@
+export const WORKBOOK_VOCABULARY_TOTAL = 1098;
