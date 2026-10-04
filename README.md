@@ -1,46 +1,52 @@
-# A2 Preparator extraction pipeline
+# A2 Prüfungsakte
 
-This workspace turns the uploaded German-learning PDFs into small, locally searchable records. It never loads an entire book into an AI context.
+App web para prepararse al examen de alemán nivel A2 (formato Goethe-Zertifikat A2). Es para quien estudia alemán por su cuenta y quiere practicar las cuatro habilidades, vocabulario y gramática en un solo lugar. La interfaz está en alemán y otros idiomas.
 
-## Learning app
+Sitio en vivo: https://a2-pruefungsakte.vercel.app
 
-Run `npm.cmd run dev` and open `http://127.0.0.1:5173`. The React app includes:
+| Escritorio | Móvil |
+| --- | --- |
+| ![Inicio de sesión en escritorio](docs/capturas/escritorio.jpg) | ![Inicio de sesión en móvil](docs/capturas/movil.jpg) |
 
-- twelve A2 curriculum units;
-- 1,098 terms extracted from all 12 Übungsbuch vocabulary chapters, plus 64 enriched flashcards;
-- separate 60% readiness gates for Lesen, Hören, Schreiben, and Sprechen;
-- 34 original skill exercises, including Goethe-Zertifikat A2-style subparts;
-- two complete official Goethe practice sets with 40 reading and 40 listening items;
-- four official writing tasks and six official speaking parts with guided self-checks;
-- responsive task sheets, streamed official audio, and saved practice progress;
-- original reading and listening exercises with German text-to-speech;
-- heuristic writing and speaking feedback;
-- a four-part short simulation;
-- persistent local progress, streaks, and activity history.
+<sub>La app pide cuenta para entrar, por eso las capturas muestran la pantalla de acceso.</sub>
 
-Create a production build with `npm.cmd run build`. The task types and subparts are aligned to Goethe-Zertifikat A2 patterns, but the readiness score remains an internal training model and is not an official Goethe assessment.
+## Qué incluye
 
-Run `npm.cmd run audit:a11y` for the repeatable Chrome/Axe audit across authentication and all seven app views at desktop and mobile widths. See `QA_CHECKLIST.md` for the remaining manual release checks.
+- Doce unidades del currículo A2.
+- 1,098 términos de vocabulario sacados de los 12 capítulos de un libro de ejercicios, más tarjetas de estudio.
+- Cuatro habilidades por separado (Lesen, Hören, Schreiben y Sprechen), cada una con su meta de preparación del 60%.
+- Ejercicios propios y dos exámenes de práctica oficiales de Goethe con 40 preguntas de lectura y 40 de comprensión auditiva, con audio.
+- Tareas oficiales de escritura y partes de expresión oral con autoevaluación guiada.
+- Entrenador de artículos, gramática y simulacro corto de examen.
+- Progreso, rachas y logros guardados, instalable como PWA.
+- Herramientas para extraer y buscar texto de los PDFs de estudio de forma local, sin cargar libros completos.
 
-## Pipeline
+La puntuación de preparación es un modelo interno de entrenamiento, no una evaluación oficial de Goethe.
 
-1. `npm.cmd run inventory` fingerprints the PDFs and selects native text, OCR, or hybrid extraction.
-2. `npm.cmd run extract` writes resumable page records under `data/pages/`.
-3. `npm.cmd run structure` detects exercise blocks and builds a local MiniSearch index.
-4. `npm.cmd run validate` checks completeness, blank pages, and low OCR confidence.
-5. `npm.cmd run query -- --text "Wechselpräpositionen"` returns only the best matching records with short snippets.
+## Tecnologías
 
-Run `npm.cmd run ingest:listening` to rebuild the official listening manifests from the local Goethe PDFs and audio files.
-Run `npm.cmd run ingest:vocabulary` to rebuild the chapter vocabulary library from the Übungsbuch OCR pages.
+React 19, Vite, Supabase (cuentas y progreso), Cloudflare Turnstile, Tesseract.js y pdf.js para el OCR, MiniSearch para la búsqueda local, Playwright con Axe para las pruebas de accesibilidad. Desplegado en Vercel.
 
-Use `node scripts/extract.mjs --book BOOK_ID --pages 10-20` for targeted or resumed extraction. Generated page text and indexes are ignored by Git.
+## Cómo correrlo
 
-Query filters include `--book BOOK_ID`, `--type exercise`, and `--limit 5`. Add `--full` only when the complete text of the selected records is needed.
+```bash
+npm install
+cp .env.example .env
+npm run dev
+```
 
-All three uploaded books are valid. The extraction index contains 615 pages and 504 detected exercise blocks, including all 196 pages of `Netzwerk Neu A2 Übungsbuch`.
+Abre `http://127.0.0.1:5173`. Variables de entorno en `.env`: `VITE_SUPABASE_URL`, `VITE_SUPABASE_PUBLISHABLE_KEY`, `VITE_TURNSTILE_SITE_KEY` y `VITE_GOOGLE_AUTH_ENABLED`.
 
-## Screenshots
+Otros comandos útiles:
 
-App desplegada en [https://a2-pruefungsakte.vercel.app](https://a2-pruefungsakte.vercel.app).
+```bash
+npm run build
+npm run audit:a11y
+npm test
+```
 
-![A2 PREPARATOR](docs/screenshot.png)
+## Extracción de los PDFs
+
+Los PDFs y el texto generado no se suben al repositorio. El flujo es `npm run inventory`, `npm run extract`, `npm run structure` y `npm run validate`. Para buscar: `npm run query -- --text "Wechselpräpositionen"`.
+
+Hay una lista de revisiones manuales antes de publicar en `QA_CHECKLIST.md`.
